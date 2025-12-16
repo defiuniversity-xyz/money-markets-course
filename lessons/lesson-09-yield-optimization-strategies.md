@@ -38,9 +38,7 @@ $$True Yield = Base APY + Rewards - \frac{Gas Costs \times Transactions}{Princip
 - Principal: $10,000
 - True yield: 5% - ($0.50 × 12) / $10,000 = 4.94%
 
-
 ![True Yield Calculation Breakdown](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_09/mm09_04_true_yield_calculation_breakdown.png)
-
 
 ### Supply Rate Factors
 
@@ -154,9 +152,7 @@ $$Liquidation Price = \frac{Debt}{Collateral \times LT}$$
 
 Monitor constantly—loops amplify liquidation risk.
 
-
 ![Looping Strategy Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_09/mm09_02_looping_strategy_diagram.png)
-
 
 ## 🌐 Cross-Protocol Arbitrage
 
@@ -192,9 +188,7 @@ Monitor constantly—loops amplify liquidation risk.
 - Assess if extra yield compensates extra risk
 - Consider insurance coverage differences
 
-
 ![Rebalancing Decision Tree](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_09/mm09_01_rebalancing_decision_tree.png)
-
 
 ## 📈 Advanced Optimization Techniques
 
@@ -281,9 +275,7 @@ Where n = compounding frequency per year.
 - Adjust for risk tolerance changes
 - Track performance vs benchmarks
 
-
 ![Yield Optimization Framework](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_09/mm09_03_yield_optimization_framework.png)
-
 
 ## ⚠️ Common Optimization Mistakes
 
@@ -328,8 +320,6 @@ Calculate leverage, net yield, and break-even rates for looping strategies:
 [![Interest Accrual Simulator](images/interactives/interest-accrual-simulator.png)](https://defi-university-app.web.app/interactives/money-markets/interest-accrual-simulator.html)
 
 **[Launch Interest Accrual Simulator →](https://defi-university-app.web.app/interactives/money-markets/interest-accrual-simulator.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/interest-accrual-simulator.html?course=money-markets&id=interest-accrual-simulator" %}
 
 ## 🔑 Key Takeaways
 

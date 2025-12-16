@@ -88,13 +88,9 @@ Aave stands as the undisputed leader in decentralized lending, managing over $70
 | Interest Rates | Static curves | Dynamic/fuzzy logic |
 | Accounting | aTokens (rebasing) | Vault shares (ERC-4626) |
 
-
 ![Aave V4 Hub and Spoke Model](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_05/mm05_01_aave_v4_hub_and_spoke_model.png)
 
-
-
 ![Aave V3 vs V4 Architecture Comparison](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_05/mm05_02_aave_v3_vs_v4_architecture_comparison.png)
-
 
 ## 📱 The Two Paths to Aave
 
@@ -140,9 +136,7 @@ Aave stands as the undisputed leader in decentralized lending, managing over $70
 3. Supply assets (toggle collateral OFF for supply-only)
 4. Borrow (if desired, monitor Health Factor)
 
-
 ![Aave App vs V3 dApp Comparison](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_05/mm05_03_aave_app_vs_v3_dapp_comparison.png)
-
 
 ## 🛡️ Risk Management: Umbrella Safety Module
 
@@ -179,9 +173,7 @@ Aave stands as the undisputed leader in decentralized lending, managing over $70
 
 **Example**: If CRV liquidity dries up on Binance, Risk Oracle lowers caps immediately to prevent manipulation attacks.
 
-
 ![Umbrella Safety Module Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_05/mm05_04_umbrella_safety_module_diagram.png)
-
 
 ## 🏛️ Aave Horizon: The Institutional Bridge
 
@@ -375,8 +367,6 @@ Compare Aave, Morpho, and Euler features side by side:
 [![Money Market Protocol Comparison](images/interactives/money-market-protocol-comparison.png)](https://defi-university-app.web.app/interactives/money-markets/money-market-protocol-comparison.html)
 
 **[Launch Protocol Comparison Tool →](https://defi-university-app.web.app/interactives/money-markets/money-market-protocol-comparison.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/money-market-protocol-comparison.html?course=money-markets&id=money-market-protocol-comparison" %}
 
 ## 🔑 Key Takeaways
 

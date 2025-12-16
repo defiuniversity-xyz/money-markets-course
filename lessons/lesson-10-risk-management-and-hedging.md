@@ -60,9 +60,7 @@ Advanced risk management goes beyond monitoring Health Factor. This lesson teach
 
 **Risk**: If crypto crashes together, crypto-collateralized positions all at risk.
 
-
 ![Portfolio Diversification Chart](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_10/mm10_01_portfolio_diversification_chart.png)
-
 
 ## 🛡️ Liquidation Protection Strategies
 
@@ -145,9 +143,7 @@ Advanced risk management goes beyond monitoring Health Factor. This lesson teach
 - Offsets price movements
 - Requires active management
 
-
 ![Hedging Strategies Comparison](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_10/mm10_03_hedging_strategies_comparison.png)
-
 
 ### Partial Hedging
 
@@ -211,9 +207,7 @@ $$Position Size = \frac{Edge}{Odds}$$
 
 **Action Plan**: Define responses for each scenario before they occur.
 
-
 ![Risk Assessment Matrix Template](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_10/mm10_02_risk_assessment_matrix_template.png)
-
 
 ## 🚨 Emergency Exit Procedures
 
@@ -257,9 +251,7 @@ $$Position Size = \frac{Edge}{Odds}$$
 
 **Preparation**: Keep gas tokens ready, have exit plan documented.
 
-
 ![Emergency Exit Procedures Flow](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_10/mm10_04_emergency_exit_procedures_flow.png)
-
 
 ## 📈 Risk-Adjusted Returns
 
@@ -370,8 +362,6 @@ Evaluate your position's risk profile before entering:
 [![Money Market Risk Assessment](images/interactives/money-market-risk-assessment.png)](https://defi-university-app.web.app/interactives/money-markets/money-market-risk-assessment.html)
 
 **[Launch Risk Assessment Tool →](https://defi-university-app.web.app/interactives/money-markets/money-market-risk-assessment.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/money-market-risk-assessment.html?course=money-markets&id=money-market-risk-assessment" %}
 
 ## 🔑 Key Takeaways
 

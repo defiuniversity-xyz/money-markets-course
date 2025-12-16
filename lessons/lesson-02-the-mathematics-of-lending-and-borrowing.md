@@ -74,9 +74,7 @@ Protocols use two thresholds to:
 
 The gap between LTV and LT gives liquidators time to act before the protocol becomes insolvent.
 
-
 ![LTV and Liquidation Threshold Breakdown](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_02/mm02_04_ltv_and_liquidation_threshold_breakdown.png)
-
 
 ## 🔢 Health Factor: Your Safety Score
 
@@ -148,9 +146,7 @@ $$HF = \frac{\sum(Collateral_i \times LT_i)}{Total Debt}$$
 
 $$HF = \frac{\$5,100 + \$3,600}{\$7,000} = \frac{\$8,700}{\$7,000} = 1.24$$
 
-
 ![Health Factor Formula Visualization](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_02/mm02_01_health_factor_formula_visualization.png)
-
 
 ## 💧 Utilization Rate and Interest Rate Curves
 
@@ -223,9 +219,7 @@ Most protocols use a kinked curve with two distinct phases:
 - Reserve funds (if protocol has them)
 - Utilization caps (max borrowing limits)
 
-
 ![Utilization Impact Chart](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_02/mm02_03_utilization_impact_chart.png)
-
 
 ## 📊 Interest Rate Calculations
 
@@ -275,8 +269,6 @@ Interest accrues continuously, not daily or monthly.
 - After 1 month: Debt = $10,000 × (1 + 0.06/12) = $10,050
 - After 6 months: Debt = $10,000 × (1 + 0.06/2) = $10,300
 - After 1 year: Debt = $10,000 × 1.06 = $10,600
-
-
 
 ![Interest Rate Curve (Kinked Model)](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_02/mm02_02_interest_rate_curve_kinked_model.png)
 
@@ -469,8 +461,6 @@ Practice calculating Health Factor, LTV, and liquidation prices with this intera
 [![Lending Borrowing Calculator](images/interactives/lending-borrowing-calculator.png)](https://defi-university-app.web.app/interactives/money-markets/lending-borrowing-calculator.html)
 
 **[Launch Lending Borrowing Calculator →](https://defi-university-app.web.app/interactives/money-markets/lending-borrowing-calculator.html)**
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/lending-borrowing-calculator.html?course=money-markets&id=lending-borrowing-calculator" %}
 
 ## 🔑 Key Takeaways
 

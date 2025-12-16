@@ -22,8 +22,6 @@ Test your understanding of the major money market protocols: Aave, Morpho, Euler
 
 **[Take Module 2 Quiz →](https://defi-university-app.web.app/quizzes/money-markets/module-02-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/money-markets/module-02-quiz.html" %}
-
 ## What You'll Learn
 
 This quiz reinforces the protocol knowledge from Lessons 5-8:

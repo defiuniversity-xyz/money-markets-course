@@ -22,8 +22,6 @@ Test your understanding of DeFi money market fundamentals, the mathematics of le
 
 **[Take Module 1 Quiz →](https://defi-university-app.web.app/quizzes/money-markets/module-01-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/money-markets/module-01-quiz.html" %}
-
 ## What You'll Learn
 
 This quiz reinforces the foundational concepts from Lessons 1-4:

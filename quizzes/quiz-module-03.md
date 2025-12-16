@@ -22,8 +22,6 @@ Test your mastery of yield optimization, professional risk management, hedging s
 
 **[Take Module 3 Quiz →](https://defi-university-app.web.app/quizzes/money-markets/module-03-quiz.html)**
 
-{% embed url="https://defi-university-app.web.app/quizzes/money-markets/module-03-quiz.html" %}
-
 ## What You'll Learn
 
 This quiz reinforces the advanced concepts from Lessons 9-12:
