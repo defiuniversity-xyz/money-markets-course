@@ -376,7 +376,7 @@ Compare Aave, Morpho, and Euler features side by side:
 
 **[Launch Protocol Comparison Tool →](https://defi-university-app.web.app/interactives/money-markets/money-market-protocol-comparison.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/protocol-comparison-tool.html?courseId=money-markets&interactionId=protocol-comparison-tool-lesson5" %}
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/money-market-protocol-comparison.html?course=money-markets&id=money-market-protocol-comparison" %}
 
 ## 🔑 Key Takeaways
 

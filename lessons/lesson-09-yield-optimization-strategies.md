@@ -329,13 +329,7 @@ Calculate leverage, net yield, and break-even rates for looping strategies:
 
 **[Launch Interest Accrual Simulator →](https://defi-university-app.web.app/interactives/money-markets/interest-accrual-simulator.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/looping-calculator.html?courseId=money-markets&interactionId=looping-calculator-lesson9" %}
-
-### Interactive Yield Optimizer
-
-Compare true yields across protocols with gas costs factored in:
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/yield-optimizer.html?courseId=money-markets&interactionId=yield-optimizer-lesson9" %}
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/interest-accrual-simulator.html?course=money-markets&id=interest-accrual-simulator" %}
 
 ## 🔑 Key Takeaways
 

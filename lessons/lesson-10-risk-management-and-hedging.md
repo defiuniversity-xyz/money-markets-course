@@ -371,7 +371,7 @@ Evaluate your position's risk profile before entering:
 
 **[Launch Risk Assessment Tool →](https://defi-university-app.web.app/interactives/money-markets/money-market-risk-assessment.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/risk-assessment-checklist.html?courseId=money-markets&interactionId=risk-assessment-checklist-lesson10" %}
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/money-market-risk-assessment.html?course=money-markets&id=money-market-risk-assessment" %}
 
 ## 🔑 Key Takeaways
 

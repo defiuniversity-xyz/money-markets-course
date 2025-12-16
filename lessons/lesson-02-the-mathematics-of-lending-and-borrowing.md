@@ -470,13 +470,7 @@ Practice calculating Health Factor, LTV, and liquidation prices with this intera
 
 **[Launch Lending Borrowing Calculator →](https://defi-university-app.web.app/interactives/money-markets/lending-borrowing-calculator.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/health-factor-calculator.html?courseId=money-markets&interactionId=health-factor-calculator-lesson2" %}
-
-### Interactive Interest Rate Simulator
-
-Visualize how utilization affects supply and borrow rates:
-
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/interest-rate-simulator.html?courseId=money-markets&interactionId=interest-rate-simulator-lesson2" %}
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/lending-borrowing-calculator.html?course=money-markets&id=lending-borrowing-calculator" %}
 
 ## 🔑 Key Takeaways
 

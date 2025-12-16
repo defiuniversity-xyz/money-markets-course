@@ -519,7 +519,7 @@ Practice calculating your position's Health Factor and see how price drops affec
 
 **[Launch Liquidation Price Calculator →](https://defi-university-app.web.app/interactives/money-markets/liquidation-price-calculator.html)**
 
-{% embed url="https://defi-university-app.web.app/interactives/money-markets/health-factor-calculator.html?courseId=money-markets&interactionId=health-factor-calculator-lesson3" %}
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/liquidation-price-calculator.html?course=money-markets&id=liquidation-price-calculator" %}
 
 ## 🔑 Key Takeaways
 
