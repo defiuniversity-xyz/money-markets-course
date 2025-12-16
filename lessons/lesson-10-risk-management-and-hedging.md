@@ -4,7 +4,11 @@ lesson_number: 10
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-10/audio/lesson10%20Building_Professional_DeFi_Liquidation_Protection_Systems.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-10/video/lesson10%20DeFi_Risk_Framework.mp4" %}
 

@@ -4,7 +4,11 @@ lesson_number: 12
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-12/audio/lesson12%20Building_Professional_Decentralized_Money_Markets_Operation.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-12/video/lesson12%20The_Professional_Money_Market_System.mp4" %}
 

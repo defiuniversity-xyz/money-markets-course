@@ -4,7 +4,11 @@ lesson_number: 5
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-05/audio/lesson5%20Aave_V4_Hub_and_Spoke_Architecture_Guide.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-05/video/lesson5%20Aave__DeFi_Lending_Intro.mp4" %}
 

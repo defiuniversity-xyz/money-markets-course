@@ -4,7 +4,11 @@ lesson_number: 8
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-08/audio/lesson8%20Solana_Sui_Tron_Money_Market_Risks.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-08/video/lesson8%20Alt_Blockchain_Explorer_s_Guide.mp4" %}
 

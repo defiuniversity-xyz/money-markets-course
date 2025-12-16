@@ -4,7 +4,11 @@ lesson_number: 9
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-09/audio/lesson9%20DeFi_Yield_Optimization_Framework_True_Yield_Looping.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-09/video/lesson9%20Savvy_Investor_s_DeFi_Playbook.mp4" %}
 

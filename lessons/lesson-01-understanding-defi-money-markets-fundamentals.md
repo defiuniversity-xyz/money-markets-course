@@ -4,7 +4,11 @@ lesson_number: 1
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-01/audio/lesson1%20DeFi_Money_Markets_Monolithic_Versus_Modular_Risk.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-01/video/lesson1%20DeFi__Banking_Without_a_Bank.mp4" %}
 

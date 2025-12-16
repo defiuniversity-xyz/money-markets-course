@@ -4,7 +4,11 @@ lesson_number: 2
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-02/audio/lesson2%20Mastering_DeFi_Lending_Math_Liquidation_Risk.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-02/video/lesson2%20Demystifying_DeFi_Lending.mp4" %}
 

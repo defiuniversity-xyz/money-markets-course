@@ -4,7 +4,11 @@ lesson_number: 11
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-11/audio/lesson11%20Future_Proofing_DeFi_Lending_RWA_Governance.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-11/video/lesson11%20Future_of_DeFi_Money_Markets.mp4" %}
 

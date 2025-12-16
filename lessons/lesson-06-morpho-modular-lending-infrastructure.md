@@ -4,7 +4,11 @@ lesson_number: 6
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-06/audio/lesson6%20Morpho_Blue_Reinvents_DeFi_Lending_Risk.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-06/video/lesson6%20Understanding_Morpho.mp4" %}
 

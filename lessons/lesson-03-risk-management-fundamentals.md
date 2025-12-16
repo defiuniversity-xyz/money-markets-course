@@ -4,7 +4,11 @@ lesson_number: 3
 course: money-markets
 ---
 
+## 🎧 Lesson Podcast
+
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-03/audio/lesson3%20Liquidation_Shield_DeFi_Money_Market_Risk.m4a" %}
+
+## 🎬 Video Overview
 
 {% embed url="https://storage.googleapis.com/money-markets-media/lesson-03/video/lesson3%20DeFi_Survival_Guide.mp4" %}
 
